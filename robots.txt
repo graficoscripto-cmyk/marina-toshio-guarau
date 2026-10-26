@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marina-toshio-guarau.vercel.app/sitemap.xml

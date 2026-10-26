@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Marina Toshio — desde 2001">
+  <defs>
+    <path id="arcTop" d="M 30 100 A 70 70 0 0 1 170 100"/>
+    <path id="arcBot" d="M 36 104 A 64 64 0 0 0 164 104"/>
+  </defs>
+  <circle cx="100" cy="100" r="99" fill="#2C66AE"/>
+  <circle cx="100" cy="100" r="91" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <circle cx="100" cy="100" r="54" fill="#fff"/>
+  <text font-family="'Libre Caslon Text', Georgia, 'Times New Roman', serif" font-weight="700" font-size="21" letter-spacing="2.2" fill="#fff" text-anchor="middle">
+    <textPath href="#arcTop" startOffset="50%">MARINA TOSHIO</textPath>
+  </text>
+  <text font-family="'Libre Caslon Text', Georgia, 'Times New Roman', serif" font-weight="700" font-size="14" letter-spacing="3" fill="#fff" text-anchor="middle" dominant-baseline="hanging">
+    <textPath href="#arcBot" startOffset="50%">DESDE 2001</textPath>
+  </text>
+  <circle cx="22" cy="104" r="2.6" fill="#fff"/>
+  <circle cx="178" cy="104" r="2.6" fill="#fff"/>
+  <g fill="none" stroke="#2C66AE" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="64" r="7" stroke-width="4.5"/>
+    <path d="M100 71 V138" stroke-width="6"/>
+    <path d="M80 84 H120" stroke-width="5.5"/>
+    <path d="M70 116 Q74 138 100 141 Q126 138 130 116" stroke-width="5.5"/>
+    <path d="M63 122 L70 112 L77 121" stroke-width="5"/>
+    <path d="M123 121 L130 112 L137 122" stroke-width="5"/>
+    <path d="M100 76 C86 82 116 92 100 99 C86 105 114 113 100 120 C90 125 108 131 98 136" stroke-width="2.4" stroke="#163C6B"/>
+  </g>
+</svg>
